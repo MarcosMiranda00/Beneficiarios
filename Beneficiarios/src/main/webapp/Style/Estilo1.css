@@ -110,7 +110,7 @@ svg {
   border-radius: 0.1875em;
 }
 
-.login input[type="email"],
+.login input[type="text"],
 .login input[type="password"] {
   background-color: #eee;
   color: #777;

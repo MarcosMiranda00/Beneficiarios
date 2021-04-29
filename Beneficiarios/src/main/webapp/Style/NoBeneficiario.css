@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+body {
+	background-color: #c0c0c0;
+  font-family: 'Varela Round', sans-serif;
+  line-height: 1.5;
+  margin: 0;
+  min-block-size: 100vh;
+  padding: 5vmin;
+}
+
+.button {
+  background-color: #33cc77;
+  color: #fff;
+  padding: 0.25em 1.5em;
+}

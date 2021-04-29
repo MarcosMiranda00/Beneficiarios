@@ -11,10 +11,10 @@
         </svg>CONSULTA</h2>
     </header>
 
-    <form action="#" class="login__form" method="POST">
+    <form action="ControllerMostrarInformacion" class="login__form" method="POST">
 
       <div>
-        <input type="email" id="email" name="dui" placeholder="INGRESE SU NUMERO DE DUI">
+        <input type="text" id="email" name="dui" placeholder="INGRESE SU NUMERO DE DUI" required>
       </div>
 
       <div>
